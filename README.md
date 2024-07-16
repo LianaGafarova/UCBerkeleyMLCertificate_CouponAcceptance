@@ -3,6 +3,9 @@ This repository contains files for Practical Application assignment for Module 5
 
 In this Practical Assignment I analyzed the relationship between drivers' tendency to accept bar and coffee house coupons based on their user and contextual attributes and identified profile characteristics of the drivers who are more likely to accept the bar and coffee house coupons
 
+Link to Jupiter notebook:
+https://github.com/LianaGafarova/UCBerkeleyMLCertificate_CouponAcceptance/blob/main/prompt.ipynb
+
 Insights for Bar coupons:
 
 1. Less than a half (41%) of Bar coupons were accepted by the drivers
